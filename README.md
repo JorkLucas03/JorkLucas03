@@ -14,7 +14,7 @@
 
 ## 🧩 Sobre mí / About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<img align="right" width="260" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
 
 ### 🇪🇸 Español
 
