@@ -16,20 +16,19 @@
 
 ## Sobre mí / About Me
 
-<img align="right" width="220" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
-
 ### 🇪🇸 Español
 
 * 👋 Hola, soy **Jork Lucas**
 * 🎓 Estudiante de **Ingeniería de Software** en la **ULEAM de Manta, Ecuador**
 * 📚 Actualmente curso **5to semestre**
 * 💻 Soy **Programador Junior**
+
+<img align="right" width="280" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
+
 * 🧠 Me interesa el desarrollo de software, la inteligencia artificial y las nuevas tecnologías
 * 🚀 Me gusta crear proyectos útiles, resolver problemas y seguir aprendiendo constantemente
 * 🤖 Uso herramientas y agentes como **Codex, Claude y Gemini**
 * 🧩 También uso **Cursor** como entorno de desarrollo apoyado con IA
-* 🏆 Participé en una **HackIAthon organizada por Viamática en Guayaquil**, desarrollando soluciones enfocadas en tecnología, salud, seguros e inteligencia artificial
-* 🎯 Durante la HackIAthon desarrollamos soluciones reales como **CareGuide-AI** y **FraudIA Claims**, logrando llegar a los **18 finalistas**
 
 ### 🇬🇧 English
 
@@ -41,14 +40,10 @@
 * 🚀 I enjoy building useful projects, solving problems and learning every day
 * 🤖 I use AI tools and agents like **Codex, Claude and Gemini**
 * 🧩 I also use **Cursor** as an AI-powered development environment
-* 🏆 I participated in a **HackIAthon organized by Viamática in Guayaquil**, developing solutions focused on technology, healthcare, insurance and artificial intelligence
-* 🎯 During the HackIAthon, we built real solutions such as **CareGuide-AI** and **FraudIA Claims**, reaching the **top 18 finalists**
 
 <br clear="right"/>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
-</p>
+---
 
 ## ⚔️ Tech Arsenal
 
@@ -56,26 +51,29 @@
 
 <table>
 <tr>
-<td align="center" width="30%">
+<td align="center" width="50%">
 
 <h3>Frontend</h3>
 
-<img height="45" src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,html,css" alt="Frontend" />
+<img height="50" src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,html,css" alt="Frontend" />
 
 </td>
-<td align="center" width="30%">
+<td align="center" width="50%">
 
 <h3>Backend & Data</h3>
 
-<img height="45" src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,python,mysql,postgres,supabase" alt="Backend and Data" />
+<img height="50" src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,python,mysql,postgres,supabase" alt="Backend and Data" />
 
 </td>
-<td align="center" width="40%">
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 
 <h3>Tools & Cloud</h3>
 
-<img height="45" src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode" alt="Tools and Cloud" />
-<img height="45" width="45" src="https://cdn.simpleicons.org/cursor/38BDF8" alt="Cursor" />
+<img height="50" src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode" alt="Tools and Cloud" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/cursor/38BDF8" alt="Cursor" />
 
 </td>
 </tr>
@@ -101,9 +99,7 @@
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
-</p>
+---
 
 ## 🚀 Featured Projects
 
