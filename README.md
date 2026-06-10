@@ -27,7 +27,9 @@
 * 🧠 Me interesa el desarrollo de software, la inteligencia artificial y las nuevas tecnologías
 * 🚀 Me gusta crear proyectos útiles, resolver problemas y seguir aprendiendo constantemente
 * 🤖 Uso herramientas y agentes como **Codex, Claude y Gemini**
-* 🏆 Participé en una **HackIAthon organizada por Viamática en Guayaquil**, desarrollando soluciones enfocadas en tecnología, salud e inteligencia artificial
+* 🧩 También uso **Cursor** como entorno de desarrollo apoyado con IA
+* 🏆 Participé en una **HackIAthon organizada por Viamática en Guayaquil**, desarrollando soluciones enfocadas en tecnología, salud, seguros e inteligencia artificial
+* 🎯 Durante la HackIAthon desarrollamos soluciones reales como **CareGuide-AI** y **FraudIA Claims**, logrando llegar a los **18 finalistas**
 
 ### 🇬🇧 English
 
@@ -37,12 +39,16 @@
 * 💻 **Junior Developer**
 * 🧠 Interested in software development, artificial intelligence and modern technologies
 * 🚀 I enjoy building useful projects, solving problems and learning every day
-* 🤖 I use tools and agents like **Codex, Claude and Gemini**
-* 🏆 I participated in a **HackIAthon organized by Viamática in Guayaquil**, developing solutions focused on technology, healthcare and artificial intelligence
+* 🤖 I use AI tools and agents like **Codex, Claude and Gemini**
+* 🧩 I also use **Cursor** as an AI-powered development environment
+* 🏆 I participated in a **HackIAthon organized by Viamática in Guayaquil**, developing solutions focused on technology, healthcare, insurance and artificial intelligence
+* 🎯 During the HackIAthon, we built real solutions such as **CareGuide-AI** and **FraudIA Claims**, reaching the **top 18 finalists**
 
 <br clear="right"/>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
 
 ## ⚔️ Tech Arsenal
 
@@ -50,32 +56,48 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="30%">
 
 <h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,html,css" alt="Frontend" />
+<img height="45" src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,html,css" alt="Frontend" />
 
-<br><br>
 </td>
-<td align="center" width="33%">
+<td align="center" width="30%">
 
 <h3>Backend & Data</h3>
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,python,mysql,postgres,supabase" alt="Backend and Data" />
+<img height="45" src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,python,mysql,postgres,supabase" alt="Backend and Data" />
 
-<br><br>
 </td>
-<td align="center" width="33%">
+<td align="center" width="40%">
 
 <h3>Tools & Cloud</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode" alt="Tools and Cloud" />
+<img height="45" src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode" alt="Tools and Cloud" />
+<img height="45" width="45" src="https://cdn.simpleicons.org/cursor/38BDF8" alt="Cursor" />
 
-<br><br>
 </td>
 </tr>
 </table>
+
+</div>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
+
+## 🤖 AI Agents & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=A78BFA" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=38BDF8" alt="Gemini" />
+
+<p>
+  Herramientas que uso para aprender, programar, generar ideas, construir soluciones y mejorar mis proyectos con inteligencia artificial.
+</p>
 
 </div>
 
@@ -92,44 +114,49 @@
 <h3 align="center">🏥 CareGuide-AI</h3>
 
 <p align="center">
-  <b>HealthTech project developed during the HackIAthon organized by Viamática in Guayaquil.</b>
+  <b>Proyecto HealthTech desarrollado durante la HackIAthon organizada por Viamática en Guayaquil.</b>
 </p>
 
 <p>
-CareGuide-AI es una solución enfocada en el área de salud, creada para apoyar al paciente mediante tecnología e inteligencia artificial.
+CareGuide-AI es una solución enfocada en el área de salud, diseñada para ayudar al paciente a entender mejor su atención médica antes de atenderse.
 </p>
 
 <p>
-El objetivo del proyecto es mejorar la orientación médica del usuario, ayudando a relacionar síntomas, necesidades médicas y posibles rutas de atención.
+El proyecto funciona como un estimador agéntico de copago y cobertura: el paciente ingresa su síntoma, el agente sugiere la especialidad médica, cruza datos con el plan de seguro y orienta sobre el copago, la cobertura y la opción más conveniente.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=flat-square&logo=openai&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Healthcare-111827?style=flat-square&logo=googlecloud&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/IA-111827?style=flat-square&logo=openai&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/HealthTech-111827?style=flat-square&logo=googlecloud&logoColor=38BDF8" />
 </p>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🛡️ RetoAseguradora</h3>
+<h3 align="center">🔎 FraudIA Claims</h3>
 
 <p align="center">
-  <b>Estimador agéntico de copago y cobertura para pacientes.</b>
+  <b>Copiloto de IA para detectar posibles fraudes en siniestros.</b>
 </p>
 
 <p>
-Proyecto donde el paciente ingresa su síntoma y el agente conversacional sugiere la especialidad médica correspondiente.
+Proyecto desarrollado para el reto de <b>Aseguradora del Sur</b>, enfocado en detectar posibles fraudes en siniestros usando inteligencia artificial.
 </p>
 
 <p>
-Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertura y recomienda el hospital de la red más conveniente económicamente.
+La solución analiza información del siniestro y genera alertas de revisión para apoyar la toma de decisiones, sin realizar acusaciones automáticas de fraude.
+</p>
+
+<p>
+Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finalistas</b>.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square&logo=openai&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Insurance-111827?style=flat-square&logo=shield&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/HealthTech-111827?style=flat-square&logo=googlecloud&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/IA-111827?style=flat-square&logo=openai&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Seguros-111827?style=flat-square&logo=shield&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Fraude-111827?style=flat-square&logo=datadog&logoColor=A78BFA" />
 </p>
 
 </td>
@@ -182,34 +209,25 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 
 <div align="center">
 
-<a href="mailto:e1316890498@live.uleam.edu.ec">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/jork-lucas-158979325/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-
-<a href="https://www.instagram.com/jork_lg03/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-</a>
-
-<a href="https://github.com/JorkLucas03" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:e1316890498@live.uleam.edu.ec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jork-lucas-158979325/)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jork_lg03/)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/JorkLucas03)
 
 </div>
+
+<br>
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
 </p>
 
+<br>
+
 <div align="center">
 
-<h3>✨ Gracias por visitar mi perfil ✨</h3>
+<h2>✨ Gracias por visitar mi perfil ✨</h2>
 
-<p>
-  <b><code>Thanks for visiting my profile 👋</code></b>
-</p>
+<h3><code>Thanks for visiting my profile 👋</code></h3>
 
 </div>
