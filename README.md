@@ -14,7 +14,7 @@
   <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
 </p>
 
-## Sobre mí / About Me
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí / About Me 
 
 ### 🇪🇸 Español
 
