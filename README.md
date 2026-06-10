@@ -196,16 +196,12 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 
 ---
 
+---
+
 <div align="center">
 
-### `Code. Learn. Build. Repeat.`
+### ✨ Gracias por visitar mi perfil ✨
 
-<br>
-
-<h3> Muchas gracias por visitar mi perfil </h3>
-
-<p>
-  Thanks for visiting my profile
-</p>
+### `Thanks for visiting my profile 👋`
 
 </div>
