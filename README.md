@@ -50,7 +50,6 @@
 <a href="https://angular.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
 
@@ -59,8 +58,6 @@
 <td align="center" width="50%">
   <h3>Backend & Data</h3>
 
-<a href="https://nestjs.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" /></a>
-<a href="https://nodejs.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
 <a href="https://www.python.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
