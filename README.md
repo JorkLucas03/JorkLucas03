@@ -93,9 +93,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/✦%20Codex-111827?style=for-the-badge&logoColor=38BDF8" alt="Codex" />
-<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=A78BFA" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=38BDF8" alt="Gemini" />
+<a href="https://openai.com/codex/" target="_blank"><img src="https://img.shields.io/badge/✦%20Codex-111827?style=for-the-badge&logoColor=38BDF8" alt="Codex" /></a>
+<a href="https://claude.ai/" target="_blank"><img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=A78BFA" alt="Claude" /></a>
+<a href="https://gemini.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=38BDF8" alt="Gemini" /></a>
 
 <p>
   Herramientas que uso para aprender, programar, generar ideas, construir soluciones y mejorar mis proyectos con inteligencia artificial.
