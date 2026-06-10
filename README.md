@@ -16,8 +16,6 @@
 
 ## Sobre mí / About Me
 
-<img align="right" width="225" hspace="20" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
-
 ### 🇪🇸 Español
 
 * 👋 Hola, soy **Jork Lucas**
@@ -37,8 +35,6 @@
 * 🧠 Interested in software development, artificial intelligence and modern technologies
 * 🚀 I enjoy building useful projects, solving problems and learning every day
 * 🤖 I use AI tools and agents like **Codex, Claude and Gemini**
-
-<br clear="right"/>
 
 ---
 
@@ -202,16 +198,14 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 
 <div align="center">
 
-<a href="mailto:e1316890498@live.uleam.edu.ec"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jork-lucas-158979325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.instagram.com/jork_lg03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;
-<a href="https://github.com/JorkLucas03" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-<img width="85%" height="6" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+<a href="mailto:e1316890498@live.uleam.edu.ec"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>  <a href="https://www.linkedin.com/in/jork-lucas-158979325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>  <a href="https://www.instagram.com/jork_lg03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>  <a href="https://github.com/JorkLucas03" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 <br>
+<img width="85%" height="6" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+<br><br>
+<img width="260" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
+<br><br>
 <h3>✨ Gracias por visitar mi perfil ✨</h3>
-
 <p>
   <b><code>Thanks for visiting my profile 👋</code></b>
 </p>
-
 </div>
