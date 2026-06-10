@@ -56,12 +56,12 @@
 
 <br><br>
 
-Angular
-TypeScript
-JavaScript
-Tailwind CSS
-HTML
-CSS
+Angular-
+TypeScript-
+JavaScript-
+Tailwind CSS-
+HTML-
+CSS-
 
 </td>
 <td align="center" width="33%">
@@ -72,12 +72,12 @@ CSS
 
 <br><br>
 
-NestJS
-Node.js
-FastAPI
-Python
-MySQL
-PostgreSQL
+NestJS-
+Node.js-
+FastAPI-
+Python-
+MySQL-
+PostgreSQL-
 Supabase
 
 </td>
@@ -89,11 +89,11 @@ Supabase
 
 <br><br>
 
-Git
-GitHub
-Docker
-Google Cloud
-AWS
+Git-
+GitHub-
+Docker-
+Google Cloud-
+AWS-
 Visual Studio Code
 
 </td>
