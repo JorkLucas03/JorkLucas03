@@ -12,9 +12,9 @@
 
 ---
 
-## 🧩 Sobre mí / About Me
+## Sobre mí / About Me
 
-<img align="right" width="260" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
+<img align="right" width="220" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
 
 ### 🇪🇸 Español
 
@@ -184,8 +184,6 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
