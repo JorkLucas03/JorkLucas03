@@ -42,9 +42,7 @@
 
 <br clear="right"/>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
-</p>
+---
 
 ## ⚔️ Tech Arsenal
 
@@ -81,7 +79,9 @@
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -136,9 +136,7 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 </tr>
 </table>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
-</p>
+---
 
 ## 📊 GitHub Stats
 
@@ -154,7 +152,9 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
 
 ## 📈 Contribution Graph
 
@@ -200,7 +200,9 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
 
 <div align="center">
 
