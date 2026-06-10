@@ -16,15 +16,14 @@
 
 ## Sobre mí / About Me
 
+<img align="right" width="270" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
+
 ### 🇪🇸 Español
 
 * 👋 Hola, soy **Jork Lucas**
 * 🎓 Estudiante de **Ingeniería de Software** en la **ULEAM de Manta, Ecuador**
 * 📚 Actualmente curso **5to semestre**
 * 💻 Soy **Programador Junior**
-
-<img align="right" width="280" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
-
 * 🧠 Me interesa el desarrollo de software, la inteligencia artificial y las nuevas tecnologías
 * 🚀 Me gusta crear proyectos útiles, resolver problemas y seguir aprendiendo constantemente
 * 🤖 Uso herramientas y agentes como **Codex, Claude y Gemini**
@@ -38,8 +37,6 @@
 * 🧠 Interested in software development, artificial intelligence and modern technologies
 * 🚀 I enjoy building useful projects, solving problems and learning every day
 * 🤖 I use AI tools and agents like **Codex, Claude and Gemini**
-
-<br clear="right"/>
 
 ---
 
