@@ -55,9 +55,6 @@
 <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,html,css" alt="Frontend" />
 
 <br><br>
-
-Angular-TypeScript-JavaScript-Tailwind-CSS-HTML-CSS
-
 </td>
 <td align="center" width="33%">
 
@@ -66,9 +63,6 @@ Angular-TypeScript-JavaScript-Tailwind-CSS-HTML-CSS
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,python,mysql,postgres,supabase" alt="Backend and Data" />
 
 <br><br>
-
-NestJS-Node.js-FastAPI-Python-MySQL-PostgreSQL-Supabase
-
 </td>
 <td align="center" width="33%">
 
@@ -77,9 +71,6 @@ NestJS-Node.js-FastAPI-Python-MySQL-PostgreSQL-Supabase
 <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode" alt="Tools and Cloud" />
 
 <br><br>
-
-Git-GitHub-Docker-Google Cloud-AWS-Visual Studio Code
-
 </td>
 </tr>
 </table>
@@ -208,5 +199,13 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 <div align="center">
 
 ### `Code. Learn. Build. Repeat.`
+
+<br>
+
+<h3> Muchas gracias por visitar mi perfil </h3>
+
+<p>
+  Thanks for visiting my profile
+</p>
 
 </div>
