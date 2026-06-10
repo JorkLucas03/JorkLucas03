@@ -16,7 +16,7 @@
 
 ## Sobre mí / About Me
 
-<img align="right" width="270" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
+<img align="right" width="245" hspace="20" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
 
 ### 🇪🇸 Español
 
@@ -37,6 +37,8 @@
 * 🧠 Interested in software development, artificial intelligence and modern technologies
 * 🚀 I enjoy building useful projects, solving problems and learning every day
 * 🤖 I use AI tools and agents like **Codex, Claude and Gemini**
+
+<br clear="right"/>
 
 ---
 
