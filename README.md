@@ -10,7 +10,9 @@
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
 
 ## Sobre mí / About Me
 
@@ -40,7 +42,9 @@
 
 <br clear="right"/>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
 
 ## ⚔️ Tech Arsenal
 
@@ -132,7 +136,9 @@ Además, cruza datos con el plan de seguro, calcula el copago, revisa la cobertu
 </tr>
 </table>
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+</p>
 
 ## 📊 GitHub Stats
 
