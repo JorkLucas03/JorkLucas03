@@ -16,7 +16,7 @@
 
 ## Sobre mí / About Me
 
-<img align="right" width="245" hspace="20" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
+<img align="right" width="225" hspace="20" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
 
 ### 🇪🇸 Español
 
