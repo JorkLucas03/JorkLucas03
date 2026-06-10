@@ -198,7 +198,7 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/output/github-snake.svg" />
 </picture>
 
 </div>
