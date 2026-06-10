@@ -213,7 +213,7 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 <br>
 <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
 <br><br>
-<img width="260" src="https://media1.tenor.com/m/5_wYALjgCQMAAAAd/anime-smoke.gif" alt="Anime Smoke GIF" />
+<img width="260" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/anime-smoke.gif" alt="Anime Smoke GIF" />
 <br><br>
 <div align="center">
 <h3>
