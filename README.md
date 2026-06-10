@@ -93,8 +93,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="Codex" />
-<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=A78BFA" alt="Claude" />
+<img src="https://img.shields.io/badge/✦%20Codex-111827?style=for-the-badge&logoColor=38BDF8" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=A78BFA" alt="Claude" />
 <img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=38BDF8" alt="Gemini" />
 
 <p>
