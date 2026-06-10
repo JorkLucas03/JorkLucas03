@@ -38,35 +38,49 @@
 
 ---
 
-## ⚔️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<table width="85%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>Frontend</h3>
 
-<h3>Frontend</h3>
-
-<img height="50" src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,html,css" alt="Frontend" />
+<a href="https://angular.dev/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
 
 </td>
+
 <td align="center" width="50%">
+  <h3>Backend & Data</h3>
 
-<h3>Backend & Data</h3>
-
-<img height="50" src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,python,mysql,postgres,supabase" alt="Backend and Data" />
+<a href="https://nestjs.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" /></a>
+<a href="https://nodejs.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
+<a href="https://www.python.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
+<a href="https://supabase.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" /></a>
 
 </td>
 </tr>
 
 <tr>
 <td align="center" colspan="2">
+  <h3>Tools & Cloud</h3>
 
-<h3>Tools & Cloud</h3>
-
-<img height="50" src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode" alt="Tools and Cloud" />
-<img height="50" width="50" src="https://cdn.simpleicons.org/cursor/38BDF8" alt="Cursor" />
+<a href="https://git-scm.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+<a href="https://github.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+<a href="https://www.docker.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
+<a href="https://www.cursor.com/" target="_blank"><img height="50" src="https://go-skill-icons.vercel.app/api/icons?i=cursor&theme=dark" alt="Cursor" /></a>
 
 </td>
 </tr>
