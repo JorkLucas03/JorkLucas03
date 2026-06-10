@@ -28,7 +28,6 @@
 * 🧠 Me interesa el desarrollo de software, la inteligencia artificial y las nuevas tecnologías
 * 🚀 Me gusta crear proyectos útiles, resolver problemas y seguir aprendiendo constantemente
 * 🤖 Uso herramientas y agentes como **Codex, Claude y Gemini**
-* 🧩 También uso **Cursor** como entorno de desarrollo apoyado con IA
 
 ### 🇬🇧 English
 
@@ -39,7 +38,6 @@
 * 🧠 Interested in software development, artificial intelligence and modern technologies
 * 🚀 I enjoy building useful projects, solving problems and learning every day
 * 🤖 I use AI tools and agents like **Codex, Claude and Gemini**
-* 🧩 I also use **Cursor** as an AI-powered development environment
 
 <br clear="right"/>
 
@@ -205,25 +203,16 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:e1316890498@live.uleam.edu.ec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jork-lucas-158979325/)
-[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jork_lg03/)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/JorkLucas03)
-
-</div>
-
+<a href="mailto:e1316890498@live.uleam.edu.ec"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jork-lucas-158979325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/jork_lg03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>&nbsp;
+<a href="https://github.com/JorkLucas03" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<img width="85%" height="6" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
 <br>
+<h3>✨ Gracias por visitar mi perfil ✨</h3>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/JorkLucas03/JorkLucas03/main/assets/separator.svg" />
+<p>
+  <b><code>Thanks for visiting my profile 👋</code></b>
 </p>
-
-<br>
-
-<div align="center">
-
-<h2>✨ Gracias por visitar mi perfil ✨</h2>
-
-<h3><code>Thanks for visiting my profile 👋</code></h3>
 
 </div>
