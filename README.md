@@ -24,7 +24,6 @@
 * 💻 Soy **Programador Junior**
 * 🧠 Me interesa el desarrollo de software, la inteligencia artificial y las nuevas tecnologías
 * 🚀 Me gusta crear proyectos útiles, resolver problemas y seguir aprendiendo constantemente
-* 🤖 Uso herramientas y agentes como **Codex, Claude y Gemini**
 
 ### 🇬🇧 English
 
@@ -34,7 +33,6 @@
 * 💻 **Junior Developer**
 * 🧠 Interested in software development, artificial intelligence and modern technologies
 * 🚀 I enjoy building useful projects, solving problems and learning every day
-* 🤖 I use AI tools and agents like **Codex, Claude and Gemini**
 
 ---
 
