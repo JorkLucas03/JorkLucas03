@@ -1,0 +1,53 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile stats SVG files
+        run: |
+          mkdir -p assets/stats
+
+          NOW=$(date +%s)
+
+          curl -L --fail --retry 3 --retry-delay 10 \
+            "https://github-readme-stats.vercel.app/api?username=JorkLucas03&show_icons=true&theme=github_dark&hide_border=false&border_color=30363D&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&cache_seconds=21600&t=${NOW}" \
+            -o assets/stats/github-stats.svg
+
+          curl -L --fail --retry 3 --retry-delay 10 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=JorkLucas03&layout=compact&theme=github_dark&hide_border=false&border_color=30363D&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117&cache_seconds=21600&t=${NOW}" \
+            -o assets/stats/top-langs.svg
+
+          curl -L --fail --retry 3 --retry-delay 10 \
+            "https://streak-stats.demolab.com?user=JorkLucas03&theme=dark&hide_border=false&border=30363D&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&t=${NOW}" \
+            -o assets/stats/github-streak.svg
+
+          curl -L --fail --retry 3 --retry-delay 10 \
+            "https://github-readme-activity-graph.vercel.app/graph?username=JorkLucas03&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&hide_border=false&border_color=30363D&t=${NOW}" \
+            -o assets/stats/contribution-graph.svg
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add assets/stats/*.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update profile stats"
+            git push
+          fi
