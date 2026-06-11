@@ -167,13 +167,13 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JorkLucas03&show_icons=true&theme=github_dark&hide_border=false&border_color=30363D&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+<img height="165" src="./assets/stats/github-stats.svg" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorkLucas03&layout=compact&theme=github_dark&hide_border=false&border_color=30363D&title_color=38BDF8&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+<img height="165" src="./assets/stats/top-langs.svg" alt="Top Languages" />
 
 <br><br>
 
-<img height="170" src="https://streak-stats.demolab.com?user=JorkLucas03&theme=dark&hide_border=false&border=30363D&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<img height="170" src="./assets/stats/github-streak.svg" alt="GitHub Streak" />
 
 </div>
 
@@ -185,7 +185,7 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JorkLucas03&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&hide_border=false&border_color=30363D" alt="Contribution Graph" />
+<img src="./assets/stats/contribution-graph.svg" alt="Contribution Graph" />
 
 </div>
 
