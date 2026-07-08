@@ -413,15 +413,14 @@ function languagesSvg(languages) {
     .join("");
 
   return `
-<svg width="420" height="195" viewBox="0 0 420 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="420" height="180" viewBox="0 0 420 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Most Used Languages</title>
   <desc id="desc">Language percentages across visible owned repositories.</desc>
   <style>
     .title { fill: ${COLORS.title}; font: 600 15px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; }
     .legend { fill: ${COLORS.text}; font: 12px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; }
-    .note { fill: ${COLORS.muted}; font: 10px -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif; }
   </style>
-  <rect x="0.5" y="0.5" width="419" height="194" rx="6" fill="${COLORS.bg}" stroke="${COLORS.border}"/>
+  <rect x="0.5" y="0.5" width="419" height="179" rx="6" fill="${COLORS.bg}" stroke="${COLORS.border}"/>
   <text x="30" y="40" class="title">My Programming Languages</text>
   <clipPath id="bar"><rect x="30" y="62" width="${barWidth}" height="8" rx="4"/></clipPath>
   <g clip-path="url(#bar)">
@@ -429,7 +428,6 @@ function languagesSvg(languages) {
     ${segments}
   </g>
   ${legend}
-  <text x="30" y="182" class="note">Generated from token-visible repositories</text>
 </svg>
 `.trimStart();
 }
@@ -452,16 +450,16 @@ function streakSvg(calendar) {
   <rect x="0.5" y="0.5" width="534" height="194" rx="6" fill="${COLORS.bg}" stroke="${COLORS.border}"/>
   <line x1="178" y1="30" x2="178" y2="168" stroke="${COLORS.border}"/>
   <line x1="357" y1="30" x2="357" y2="168" stroke="${COLORS.border}"/>
-  <text x="89" y="82" class="num">${compactNumber(total)}</text>
-  <text x="89" y="112" class="label">Total Contributions</text>
-  <text x="89" y="138" class="date">${formatDateRange(days[0]?.date, days.at(-1)?.date)}</text>
-  <circle cx="267" cy="78" r="32" stroke="${COLORS.title}" stroke-width="4" fill="none"/>
-  <text x="267" y="86" class="num">${streaks.current.count}</text>
+  <text x="89" y="78" class="num">${compactNumber(total)}</text>
+  <text x="89" y="108" class="label">Total Contributions</text>
+  <text x="89" y="134" class="date">${formatDateRange(days[0]?.date, days.at(-1)?.date)}</text>
+  <circle cx="267" cy="68" r="28" stroke="${COLORS.title}" stroke-width="4" fill="none"/>
+  <text x="267" y="76" class="num">${streaks.current.count}</text>
   <text x="267" y="118" class="accent">Current Streak</text>
   <text x="267" y="142" class="date">${formatDateRange(streaks.current.start, streaks.current.end)}</text>
-  <text x="446" y="82" class="num">${streaks.longest.count}</text>
-  <text x="446" y="112" class="label">Longest Streak</text>
-  <text x="446" y="138" class="date">${formatDateRange(streaks.longest.start, streaks.longest.end)}</text>
+  <text x="446" y="78" class="num">${streaks.longest.count}</text>
+  <text x="446" y="108" class="label">Longest Streak</text>
+  <text x="446" y="134" class="date">${formatDateRange(streaks.longest.start, streaks.longest.end)}</text>
 </svg>
 `.trimStart();
 }
