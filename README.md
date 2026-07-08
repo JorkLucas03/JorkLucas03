@@ -190,7 +190,7 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 
 <div align="center">
 
-<img src="./assets/stats/contribution-graph.svg" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=C0qUX&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&area_color=38BDF8&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
@@ -198,11 +198,7 @@ Este reto formó parte de la HackIAthon y nos ayudó a llegar a los <b>18 finali
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C0qUX/C0qUX/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C0qUX/C0qUX/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/C0qUX/C0qUX/output/github-snake.svg" />
-</picture>
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/C0qUX/C0qUX/output/github-snake-dark.svg" />
 
 </div>
 
