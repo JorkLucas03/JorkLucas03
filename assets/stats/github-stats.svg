@@ -13,10 +13,10 @@
   
         <text x="28" y="78" class="icon">☆</text>
         <text x="48" y="78" class="label">Total Stars:</text>
-        <text x="280" y="78" class="value">1</text>
+        <text x="280" y="78" class="value">0</text>
         <text x="28" y="100" class="icon">⊙</text>
         <text x="48" y="100" class="label">Total Commits:</text>
-        <text x="280" y="100" class="value">174</text>
+        <text x="280" y="100" class="value">195</text>
         <text x="28" y="122" class="icon">⎇</text>
         <text x="48" y="122" class="label">Total PRs:</text>
         <text x="280" y="122" class="value">7</text>
